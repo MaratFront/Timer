@@ -67,6 +67,3 @@ function Timer() {
 }
 
 Timer();
-
-// eslint-disable-next-line no-undef
-timerReload();
